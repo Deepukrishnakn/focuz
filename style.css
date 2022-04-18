@@ -1,0 +1,51 @@
+*{
+    width: auto;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.bg-black{
+    background-color: black;
+}
+.logo{
+    width: 100px;
+}
+.navbar-nav{
+    position: absolute;
+    top: 10;
+    right: 20%;  
+}
+.about-section p{
+    font-size: 15px;
+    line-height: 25px;
+}
+.home-slider h2{
+    font-size: 48px;
+}
+.coustom-font-h3{
+    font-size: 40px;
+}
+.wedding{
+    height: 100px;
+}
+.contact-section{
+    background-image: url(./three.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.address-box{
+    font-size: 15px;
+    line-height: 28px;
+}
+section.main-slider {
+    width: 100%;}
+    .footer{
+        width: 100%;
+    }
+.header-section{
+    width: 100%;
+}
+.main-slider{
+    width: 100%;
+}
